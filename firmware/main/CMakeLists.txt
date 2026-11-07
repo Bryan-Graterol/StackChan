@@ -318,6 +318,8 @@ idf_component_register(SRCS ${SOURCES}
                         esp_driver_spi
                         esp_driver_i2c
                         esp_driver_i2s
+                        esp_driver_rmt
+                        nvs_flash
                         esp_driver_jpeg
                         esp_driver_ppa
                         esp_app_format
